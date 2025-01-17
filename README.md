@@ -1,7 +1,7 @@
 # MLCL
 
-#Usage
-##Requirements
+# Usage
+## Requirements
 
 1.Create a conda environment with python 3.11.
 
@@ -24,12 +24,11 @@ pip install -r requirements.txt
 4.Clone the repository and change the directory
 
 ```python
-git clone https://github.com/AiEson/SCANet.git
-cd MLCL
-```
-##Training
 
-###Dataset Preparation
+```
+## Training
+
+### Dataset Preparation
 
 1.LEVIR:
 2.WHU:[ http://gpcv.whu.edu.cn/data/building_dataset.html] http://gpcv.whu.edu.cn/data/building_dataset.html
