@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```python
 https://github.com/lvvsh/MLCL.git
 
-cd MLCLNet
+cd MLCL
 ```
 ## Training
 
