@@ -24,7 +24,9 @@ pip install -r requirements.txt
 4.Clone the repository and change the directory
 
 ```python
+https://github.com/lvvsh/MLCL.git
 
+cd MLCLNet
 ```
 ## Training
 
