@@ -32,7 +32,7 @@ cd MLCL
 
 ### Dataset Preparation
 
-1.LEVIR:[https://aistudio.baidu.com/datasetdetail/104390/1](https://github.com/justchenhao/LEVIR)
+1.LEVIR:https://github.com/justchenhao/LEVIR
 
 2.WHU:http://gpcv.whu.edu.cn/data/building_dataset.html
 
